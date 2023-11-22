@@ -1,5 +1,7 @@
 # Capacitor HealthKit Plugin
 
+**Forked from [perfood/capacitor-healthkit](https://github.com/perfood/capacitor-healthkit) and updated for Capacitor V5.**
+
 :heart: Capacitor plugin to retrieve data from HealthKit :heart:
 
 Disclaimer : _for now only some of the HK data base, in the future the retrieve base will be bigger !_
