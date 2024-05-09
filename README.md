@@ -1,6 +1,6 @@
 # Capacitor HealthKit Plugin
 
-**Forked from [perfood/capacitor-healthkit](https://github.com/perfood/capacitor-healthkit) and updated for Capacitor V5.**
+**Forked from [perfood/capacitor-healthkit](https://github.com/perfood/capacitor-healthkit) and updated for Capacitor V6.**
 
 :heart: Capacitor plugin to retrieve data from HealthKit :heart:
 
@@ -103,13 +103,24 @@ And you're all set ! :+1:
 
 <docgen-index>
 
-* [`requestAuthorization(...)`](#requestauthorization)
-* [`queryHKitSampleType(...)`](#queryhkitsampletype)
-* [`isAvailable()`](#isavailable)
-* [`multipleQueryHKitSampleType(...)`](#multiplequeryhkitsampletype)
-* [`isEditionAuthorized(...)`](#iseditionauthorized)
-* [`multipleIsEditionAuthorized()`](#multipleiseditionauthorized)
-* [Interfaces](#interfaces)
+- [Capacitor HealthKit Plugin](#capacitor-healthkit-plugin)
+	- [Getting Started](#getting-started)
+		- [Prerequisites](#prerequisites)
+		- [Installing](#installing)
+		- [requestAuthorization(...)](#requestauthorization)
+		- [queryHKitSampleType(...)](#queryhkitsampletype)
+		- [isAvailable()](#isavailable)
+		- [multipleQueryHKitSampleType(...)](#multiplequeryhkitsampletype)
+		- [isEditionAuthorized(...)](#iseditionauthorized)
+		- [multipleIsEditionAuthorized()](#multipleiseditionauthorized)
+		- [Interfaces](#interfaces)
+			- [AuthorizationQueryOptions](#authorizationqueryoptions)
+			- [QueryOutput](#queryoutput)
+			- [SingleQueryOptions](#singlequeryoptions)
+			- [MultipleQueryOptions](#multiplequeryoptions)
+			- [EditionQuery](#editionquery)
+	- [Credits](#credits)
+	- [License](#license)
 
 </docgen-index>
 
