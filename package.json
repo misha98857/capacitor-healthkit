@@ -9,7 +9,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "PerfoodCapacitorHealthkit.podspec"
+    "BinxiaosydCapacitorHealthkit.podspec"
   ],
   "author": "Perfood GmbH",
   "license": "MIT",
